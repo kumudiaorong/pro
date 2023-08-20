@@ -74,5 +74,3 @@ CMakeLists.txt.user*
 
 .cache
 build
-qst-front-end
-qst-back-end
