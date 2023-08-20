@@ -4,3 +4,6 @@
 [submodule "qst-back-end"]
 	path = qst-back-end
 	url = git@github.com:kumudiaorong/qst-back-end.git
+[submodule "qst_back_end"]
+	path = qst_back_end
+	url = git@github.com:kumudiaorong/qst-front-end.git
